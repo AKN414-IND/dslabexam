@@ -1,0 +1,10 @@
+Experiment 3: Write a C program to implement binary search using recursion.
+Experiment 6: Write a C program to implement quick sort.
+Experiment 7: Write a C program to implement merge sort.
+Experiment 8: Write a C program to implement polynomial addition using arrays.
+Experiment 12: Write a C program to implement stack ADT using arrays.
+Experiment 13: Write a C program to reverse a string using stack.
+Experiment 18: Write a C program to implement queue using arrays.
+Experiment 23: Write a C program to implement a stack using a linked list.
+Experiment 24: Write a C program to implement a queue using a linked list.
+Experiment 26: Write a C program to implement polynomial addition using linked list.
